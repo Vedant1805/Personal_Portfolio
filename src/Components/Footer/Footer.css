@@ -1,0 +1,12 @@
+.footer__data {
+    background-color: black;
+    margin-top: 10rem;
+}
+
+.footer__data p {
+    color: white;
+    background-color: rgba(59, 130, 246, .5);
+    font-size: 1.25rem;
+    padding-top: 0.5rem;
+    text-align: center;
+}
