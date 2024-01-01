@@ -32,7 +32,7 @@ const Project = () => {
                         <img src={projectimg} alt="" />
                         <div className="project__data">
                             <div className="project__info">
-                                <p>CryptoCurrency stalker</p>
+                                <p>IMDB Clone</p>
                                 <p>html css javascript</p>
                             </div>
 
